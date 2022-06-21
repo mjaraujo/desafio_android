@@ -1,2 +1,2 @@
 # desafio_android
-Desafio para desenvolvimento de aplicação Android
+Desafio para nivelamento de aplicação Android
