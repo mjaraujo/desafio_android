@@ -17,7 +17,7 @@ Portanto, nesse desafio, queremos que você crie um cadastro para candidatos a e
   - Nome completo
   - Telefone
   - Data de nascimento (Obrigatório ser maior de 18 anos)
-  - CPF Válido
+  - CPF válido
   - CEP (pegar informações para preencher outros campos a partir da API https://viacep.com.br/)
   - Cidade*
   - UF*
@@ -33,7 +33,7 @@ Portanto, nesse desafio, queremos que você crie um cadastro para candidatos a e
     
 - O que consideramos como diferencial:
   ```
-  * Realizar o cadastro de usuários no Firebase;
+  * Utilizar o Firebase Firestore para persistir o cadastro de usuários;
   * Elaborar manual de execução;
   * Elaborar documentação;
   * Elaborar testes.
@@ -44,7 +44,7 @@ Portanto, nesse desafio, queremos que você crie um cadastro para candidatos a e
   * Seu código; 
   * Organização;
   * Boas práticas de desenvolvimento para a arquitetura Android;
-  * Diferenciais;    
+  * Diferenciais.
   ```
 
 
