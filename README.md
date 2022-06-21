@@ -4,7 +4,7 @@ Olá, convidamos você a participar do nosso desafio para nivelamento de desenvo
 Seu trabalho será visto pelo nosso time e você receberá um feedback sobre o desempenho ao final do processo.
 
 ### Desafio Técnico
-Nós mantemos um aplicativo Android usado por nossoes entregadores para apontamento de coletas e entregas de encomendas.
+Mantemos um aplicativo Android usado por nossos entregadores para apontamento de coletas e entregas de encomendas.
 Portanto, nesse desafio, queremos que você crie um cadastro para candidatos a entregadores.
 
 - Tela de login: 
