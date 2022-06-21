@@ -24,7 +24,7 @@ Portanto, nesse desafio, queremos que você crie um cadastro para candidatos a e
   - Bairro*
   - Número
   - Complemento
- *Campo preenchido automaticamente a partir do CEP
+  - *Campo preenchido automaticamente a partir do CEP
 
 - Pré-requisitos:
     - Utilizar linguagem Kotlin
