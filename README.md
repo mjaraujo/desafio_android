@@ -11,7 +11,7 @@ Portanto, nesse desafio, queremos que você crie um cadastro para candidatos a e
   - Nome de Usuário
   - Senha
   - Opção para chamar Tela Inicial
-  - Opção para chamar a Yela de Cadastro
+  - Opção para chamar a Tela de Cadastro
 
 - Tela de cadastro:
   - Nome completo
@@ -43,7 +43,7 @@ Portanto, nesse desafio, queremos que você crie um cadastro para candidatos a e
   ```
   * Seu código; 
   * Organização;
-  * Boas práticas;
+  * Boas práticas de desenvolvimento para a arquitetura Android;
   * Diferenciais;    
   ```
 
