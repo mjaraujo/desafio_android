@@ -50,6 +50,6 @@ Portanto, nesse desafio, queremos que você crie um cadastro para candidatos a e
 
 ### Instruções
       1. Crie um repositório privado no seu github para o projeto e adicione como colaborador o usuário mjaraujo;
-      2. Você terá 5 dias a partir da data do recebimento deste desafio; 
+      2. Ao receber este desafio informe a quantidade de dias corridos que precisa para concluí-lo; 
       3. Após concluir seu trabalho faça um push; 
       4. Envie um e-mail para marcio@asaplog.com.br notificando que concluiu o desenvolvimento do desafio.
